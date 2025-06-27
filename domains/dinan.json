@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "dinanjay",
+    "email": "hi@dinan.lk"
+  },
+  "records": {
+    "CNAME": "dinan.lk"
+  },
+  "proxied": true
+}
